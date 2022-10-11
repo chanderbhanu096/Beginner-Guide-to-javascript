@@ -1,3 +1,4 @@
+// To Run this program please also download the html file as well
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 canvas.height = window.innerHeight;
